@@ -1,0 +1,53 @@
+# Pickwig — Generative Engine Optimization Map
+
+> A אופנה ויופי / מוצרי שיער business.
+
+---
+
+## Pages
+
+### Home
+https://pickwig-a571ceac.zappy5.app
+
+### About
+https://pickwig-a571ceac.zappy5.app/about
+
+### Collections
+https://pickwig-a571ceac.zappy5.app/collections
+
+### Contact
+https://pickwig-a571ceac.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://pickwig-a571ceac.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pickwig-a571ceac.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pickwig-a571ceac.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pickwig
+Pickwig is a business in the אופנה ויופי / מוצרי שיער industry.
+
+## Target Audience
+נשים - אלופציה, דלילות שיער, דתיות, חולות אונקולוגיות, מחפשות פאות יוקרה
+
+## Industry
+אופנה ויופי / מוצרי שיער
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://pickwig-a571ceac.zappy5.app/sitemap.xml
+- **Robots.txt**: https://pickwig-a571ceac.zappy5.app/robots.txt

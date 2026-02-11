@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pickwig-a571ceac.zappy5.app/sitemap.xml
